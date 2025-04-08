@@ -900,3 +900,55 @@ h4,
 }
 
 /*** THE END SLIDE ***/
+
+
+
+.contenedor {
+	background-color: #ffffff;
+	/* Fondo blanco para el contenido */
+	padding: 30px 40px;
+	border-radius: 10px;
+	/* Bordes redondeados */
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+	/* Sombra sutil */
+}
+
+h1 {
+	color: #333;
+	margin-bottom: 20px;
+}
+
+.excusa-texto {
+	font-size: 1.4em;
+	/* Tamaño de fuente más grande para la excusa */
+	color: #555;
+	min-height: 60px;
+	/* Espacio para que no salte el botón */
+	margin-top: 20px;
+	margin-bottom: 30px;
+	font-style: italic;
+}
+
+button {
+	padding: 12px 25px;
+	font-size: 1em;
+	color: white;
+	background-color: #007bff;
+	/* Azul llamativo */
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	/* Cambia el cursor al pasar por encima */
+	transition: background-color 0.2s ease;
+	/* Transición suave */
+}
+
+button:hover {
+	background-color: #0056b3;
+	/* Azul un poco más oscuro al pasar el ratón */
+}
+
+button:active {
+	background-color: #004085;
+	/* Azul más oscuro al hacer clic */
+}
