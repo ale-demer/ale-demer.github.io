@@ -19,11 +19,11 @@ const sujetos = [
     "mi perro",
     "un gremlin invisible",
     "el vecino del quinto",
-    "una llama fugitiva",
+    "Marley",
     "mi yo del futuro",
     "el algoritmo de Instagram",
     "un grupo de palomas mensajeras",
-    "el fantasma de la ópera",
+    "Ricardinho",
     "mi tostadora",
     "Peri"
 ];
@@ -35,7 +35,7 @@ const verbos = [
     "le tiró café encima a",
     "abdujo",
     "puso en un bucle temporal",
-    "le enseñó a bailar cuarteto a",
+    "rompió",
     "hackeó",
     "desconfiguró",
 ];
